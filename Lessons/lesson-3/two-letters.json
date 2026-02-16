@@ -1,0 +1,36 @@
+[
+  {"sl":"1","two-letters":"با","en-letters":"ba-alif","bn-letters":"বা-আলিফ"},
+  {"sl":"2","two-letters":"حب","en-letters":"ha-ba","bn-letters":"হা-বা"},
+  {"sl":"3","two-letters":"حج","en-letters":"ha-jeem","bn-letters":"হা-জীম"},
+  {"sl":"4","two-letters":"جل","en-letters":"jeem-lam","bn-letters":"জীম-লাম"},
+  {"sl":"5","two-letters":"مع","en-letters":"meem-ain","bn-letters":"মীম-আইন"},
+  {"sl":"6","two-letters":"عص","en-letters":"ain-sad","bn-letters":"আইন-সদ"},
+
+  {"sl":"7","two-letters":"ظل","en-letters":"za-lam","bn-letters":"যয়া-লাম"},
+  {"sl":"8","two-letters":"لك","en-letters":"lam-kaf","bn-letters":"লাম-কাফ"},
+  {"sl":"9","two-letters":"هو","en-letters":"ha-waw","bn-letters":"হা-ওয়াও"},
+  {"sl":"10","two-letters":"له","en-letters":"lam-ha","bn-letters":"লাম-হা"},
+  {"sl":"11","two-letters":"حم","en-letters":"ha-meem","bn-letters":"হা-মীম"},
+  {"sl":"12","two-letters":"من","en-letters":"meem-noon","bn-letters":"মীম-নুন"},
+
+  {"sl":"13","two-letters":"لا","en-letters":"lam-alif","bn-letters":"লাম-আলিফ"},
+  {"sl":"14","two-letters":"كم","en-letters":"kaf-meem","bn-letters":"কাফ-মীম"},
+  {"sl":"15","two-letters":"حي","en-letters":"ha-ya","bn-letters":"হা-ইয়া"},
+  {"sl":"16","two-letters":"يس","en-letters":"ya-seen","bn-letters":"ইয়া-সীন"},
+  {"sl":"17","two-letters":"كب","en-letters":"kaf-ba","bn-letters":"কাফ-বা"},
+  {"sl":"18","two-letters":"قو","en-letters":"qaf-waw","bn-letters":"কফ-ওয়াও"},
+
+  {"sl":"19","two-letters":"هم","en-letters":"ha-meem","bn-letters":"হা-মীম"},
+  {"sl":"20","two-letters":"به","en-letters":"ba-ha","bn-letters":"বা-হা"},
+  {"sl":"21","two-letters":"يه","en-letters":"ya-ha","bn-letters":"ইয়া-হা"},
+  {"sl":"22","two-letters":"ته","en-letters":"ta-ha","bn-letters":"তা-হা"},
+  {"sl":"23","two-letters":"جر","en-letters":"jeem-ra","bn-letters":"জীম-রা"},
+  {"sl":"24","two-letters":"خذ","en-letters":"kha-dhal","bn-letters":"খা-যাল"},
+
+  {"sl":"25","two-letters":"صح","en-letters":"sad-ha","bn-letters":"সদ-হা"},
+  {"sl":"26","two-letters":"ضح","en-letters":"dad-ha","bn-letters":"দদ-হা"},
+  {"sl":"27","two-letters":"نخ","en-letters":"noon-kha","bn-letters":"নুন-খা"},
+  {"sl":"28","two-letters":"يف","en-letters":"ya-fa","bn-letters":"ইয়া-ফা"},
+  {"sl":"29","two-letters":"لو","en-letters":"lam-waw","bn-letters":"লাম-ওয়াও"},
+  {"sl":"30","two-letters":"جئ","en-letters":"jeem-hamza","bn-letters":"জীম-হামযাহ"}
+]
