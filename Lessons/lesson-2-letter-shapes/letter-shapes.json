@@ -56,7 +56,7 @@
   {
     "sl": "7",
     "en-name": "Kha",
-    "bn-name": "খা",
+    "bn-name": "খ",
     "isolated": "خ",
     "initial": "خــ",
     "medial": "ــخــ",
@@ -64,7 +64,7 @@
   },
   {
     "sl": "8",
-    "en-name": "Dal",
+    "en-name": "Da-l",
     "bn-name": "দাল",
     "isolated": "د",
     "initial": "د",
@@ -73,7 +73,7 @@
   },
   {
     "sl": "9",
-    "en-name": "Dhal",
+    "en-name": "Dha-l",
     "bn-name": "যাল",
     "isolated": "ذ",
     "initial": "ذ",
@@ -83,7 +83,7 @@
   {
     "sl": "10",
     "en-name": "Ra",
-    "bn-name": "রা",
+    "bn-name": "র",
     "isolated": "ر",
     "initial": "ر",
     "medial": "ــر",
@@ -118,8 +118,8 @@
   },
   {
     "sl": "14",
-    "en-name": "Sad",
-    "bn-name": "সদ",
+    "en-name": "Sa-d",
+    "bn-name": "স্ব-দ",
     "isolated": "ص",
     "initial": "صــ",
     "medial": "ــصــ",
@@ -127,8 +127,8 @@
   },
   {
     "sl": "15",
-    "en-name": "Dad",
-    "bn-name": "দদ",
+    "en-name": "Da-d",
+    "bn-name": "দ্ব-দ",
     "isolated": "ض",
     "initial": "ضــ",
     "medial": "ــضــ",
@@ -137,7 +137,7 @@
   {
     "sl": "16",
     "en-name": "Ta (Emphatic)",
-    "bn-name": "তয়া",
+    "bn-name": "ত্ব",
     "isolated": "ط",
     "initial": "طــ",
     "medial": "ــطــ",
@@ -146,7 +146,7 @@
   {
     "sl": "17",
     "en-name": "Za (Emphatic)",
-    "bn-name": "যয়া",
+    "bn-name": "য",
     "isolated": "ظ",
     "initial": "ظــ",
     "medial": "ــظــ",
@@ -154,8 +154,8 @@
   },
   {
     "sl": "18",
-    "en-name": "Ain",
-    "bn-name": "আইন",
+    "en-name": "A'in",
+    "bn-name": "আ'ইন",
     "isolated": "ع",
     "initial": "عــ",
     "medial": "ــعــ",
@@ -164,7 +164,7 @@
   {
     "sl": "19",
     "en-name": "Ghain",
-    "bn-name": "গাইন",
+    "bn-name": "গইন",
     "isolated": "غ",
     "initial": "غــ",
     "medial": "ــغــ",
@@ -181,8 +181,8 @@
   },
   {
     "sl": "21",
-    "en-name": "Qaf",
-    "bn-name": "কফ",
+    "en-name": "Qa-f",
+    "bn-name": "ক্ব-ফ",
     "isolated": "ق",
     "initial": "قــ",
     "medial": "ــقــ",
@@ -190,8 +190,8 @@
   },
   {
     "sl": "22",
-    "en-name": "Kaf",
-    "bn-name": "কাফ",
+    "en-name": "Ka-f",
+    "bn-name": "কা-ফ",
     "isolated": "ك",
     "initial": "كــ",
     "medial": "ــكــ",
@@ -199,8 +199,8 @@
   },
   {
     "sl": "23",
-    "en-name": "Lam",
-    "bn-name": "লাম",
+    "en-name": "La-m",
+    "bn-name": "লা-ম",
     "isolated": "ل",
     "initial": "لــ",
     "medial": "ــلــ",
@@ -218,7 +218,7 @@
   {
     "sl": "25",
     "en-name": "Noon",
-    "bn-name": "নুন",
+    "bn-name": "নূন",
     "isolated": "ن",
     "initial": "نــ",
     "medial": "ــنــ",
