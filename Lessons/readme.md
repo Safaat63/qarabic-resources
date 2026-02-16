@@ -1,0 +1,1 @@
+# QArabic Resources

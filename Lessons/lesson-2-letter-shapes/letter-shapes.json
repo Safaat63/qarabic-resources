@@ -1,0 +1,272 @@
+[
+  {
+    "sl": "1",
+    "en-name": "Alif",
+    "bn-name": "আলিফ",
+    "isolated": "ا",
+    "initial": "ا",
+    "medial": "ــا",
+    "final": "ــا"
+  },
+  {
+    "sl": "2",
+    "en-name": "Ba",
+    "bn-name": "বা",
+    "isolated": "ب",
+    "initial": "بــ",
+    "medial": "ــبــ",
+    "final": "ــب"
+  },
+  {
+    "sl": "3",
+    "en-name": "Ta",
+    "bn-name": "তা",
+    "isolated": "ت",
+    "initial": "تــ",
+    "medial": "ــتــ",
+    "final": "ــت"
+  },
+  {
+    "sl": "4",
+    "en-name": "Tha",
+    "bn-name": "ছা",
+    "isolated": "ث",
+    "initial": "ثــ",
+    "medial": "ــثــ",
+    "final": "ــث"
+  },
+  {
+    "sl": "5",
+    "en-name": "Jeem",
+    "bn-name": "জীম",
+    "isolated": "ج",
+    "initial": "جــ",
+    "medial": "ــجــ",
+    "final": "ــج"
+  },
+  {
+    "sl": "6",
+    "en-name": "Hha",
+    "bn-name": "হা (হলক)",
+    "isolated": "ح",
+    "initial": "حــ",
+    "medial": "ــحــ",
+    "final": "ــح"
+  },
+  {
+    "sl": "7",
+    "en-name": "Kha",
+    "bn-name": "খা",
+    "isolated": "خ",
+    "initial": "خــ",
+    "medial": "ــخــ",
+    "final": "ــخ"
+  },
+  {
+    "sl": "8",
+    "en-name": "Dal",
+    "bn-name": "দাল",
+    "isolated": "د",
+    "initial": "د",
+    "medial": "ــد",
+    "final": "ــد"
+  },
+  {
+    "sl": "9",
+    "en-name": "Dhal",
+    "bn-name": "যাল",
+    "isolated": "ذ",
+    "initial": "ذ",
+    "medial": "ــذ",
+    "final": "ــذ"
+  },
+  {
+    "sl": "10",
+    "en-name": "Ra",
+    "bn-name": "রা",
+    "isolated": "ر",
+    "initial": "ر",
+    "medial": "ــر",
+    "final": "ــر"
+  },
+  {
+    "sl": "11",
+    "en-name": "Zay",
+    "bn-name": "যা",
+    "isolated": "ز",
+    "initial": "ز",
+    "medial": "ــز",
+    "final": "ــز"
+  },
+  {
+    "sl": "12",
+    "en-name": "Seen",
+    "bn-name": "সীন",
+    "isolated": "س",
+    "initial": "ســ",
+    "medial": "ــســ",
+    "final": "ــس"
+  },
+  {
+    "sl": "13",
+    "en-name": "Sheen",
+    "bn-name": "শীন",
+    "isolated": "ش",
+    "initial": "شــ",
+    "medial": "ــشــ",
+    "final": "ــش"
+  },
+  {
+    "sl": "14",
+    "en-name": "Sad",
+    "bn-name": "সদ",
+    "isolated": "ص",
+    "initial": "صــ",
+    "medial": "ــصــ",
+    "final": "ــص"
+  },
+  {
+    "sl": "15",
+    "en-name": "Dad",
+    "bn-name": "দদ",
+    "isolated": "ض",
+    "initial": "ضــ",
+    "medial": "ــضــ",
+    "final": "ــض"
+  },
+  {
+    "sl": "16",
+    "en-name": "Ta (Emphatic)",
+    "bn-name": "তয়া",
+    "isolated": "ط",
+    "initial": "طــ",
+    "medial": "ــطــ",
+    "final": "ــط"
+  },
+  {
+    "sl": "17",
+    "en-name": "Za (Emphatic)",
+    "bn-name": "যয়া",
+    "isolated": "ظ",
+    "initial": "ظــ",
+    "medial": "ــظــ",
+    "final": "ــظ"
+  },
+  {
+    "sl": "18",
+    "en-name": "Ain",
+    "bn-name": "আইন",
+    "isolated": "ع",
+    "initial": "عــ",
+    "medial": "ــعــ",
+    "final": "ــع"
+  },
+  {
+    "sl": "19",
+    "en-name": "Ghain",
+    "bn-name": "গাইন",
+    "isolated": "غ",
+    "initial": "غــ",
+    "medial": "ــغــ",
+    "final": "ــغ"
+  },
+  {
+    "sl": "20",
+    "en-name": "Fa",
+    "bn-name": "ফা",
+    "isolated": "ف",
+    "initial": "فــ",
+    "medial": "ــفــ",
+    "final": "ــف"
+  },
+  {
+    "sl": "21",
+    "en-name": "Qaf",
+    "bn-name": "কফ",
+    "isolated": "ق",
+    "initial": "قــ",
+    "medial": "ــقــ",
+    "final": "ــق"
+  },
+  {
+    "sl": "22",
+    "en-name": "Kaf",
+    "bn-name": "কাফ",
+    "isolated": "ك",
+    "initial": "كــ",
+    "medial": "ــكــ",
+    "final": "ــك"
+  },
+  {
+    "sl": "23",
+    "en-name": "Lam",
+    "bn-name": "লাম",
+    "isolated": "ل",
+    "initial": "لــ",
+    "medial": "ــلــ",
+    "final": "ــل"
+  },
+  {
+    "sl": "24",
+    "en-name": "Meem",
+    "bn-name": "মীম",
+    "isolated": "م",
+    "initial": "مــ",
+    "medial": "ــمــ",
+    "final": "ــم"
+  },
+  {
+    "sl": "25",
+    "en-name": "Noon",
+    "bn-name": "নুন",
+    "isolated": "ن",
+    "initial": "نــ",
+    "medial": "ــنــ",
+    "final": "ــن"
+  },
+  {
+    "sl": "26",
+    "en-name": "Waw",
+    "bn-name": "ওয়াও",
+    "isolated": "و",
+    "initial": "و",
+    "medial": "ــو",
+    "final": "ــو"
+  },
+  {
+    "sl": "27",
+    "en-name": "Ha",
+    "bn-name": "হা",
+    "isolated": "ه",
+    "initial": "هــ",
+    "medial": "ــهــ",
+    "final": "ــه"
+  },
+  {
+    "sl": "28",
+    "en-name": "Hamza",
+    "bn-name": "হামযাহ",
+    "isolated": "ء",
+    "initial": "ئــ",
+    "medial": "ــئــ / ؤ / أ",
+    "final": "ــئ / ــؤ / ــأ"
+  },
+  {
+    "sl": "29",
+    "en-name": "Ya",
+    "bn-name": "ইয়া",
+    "isolated": "ي",
+    "initial": "يــ",
+    "medial": "ــيــ",
+    "final": "ــي"
+  },
+  {
+    "sl": "30",
+    "en-name": "Ta Marbuta",
+    "bn-name": "গোল তা",
+    "isolated": "ة",
+    "initial": "—",
+    "medial": "—",
+    "final": "ــة / ة"
+  }
+]
