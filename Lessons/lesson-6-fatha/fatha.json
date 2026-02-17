@@ -1,0 +1,35 @@
+[
+  { "sl":"1",  "letter":"أَ","en-sound":"ʾa", "bn-sound":"আ" },
+  { "sl":"2",  "letter":"بَ","en-sound":"ba", "bn-sound":"বা" },
+  { "sl":"3",  "letter":"تَ","en-sound":"ta", "bn-sound":"তা" },
+  { "sl":"4",  "letter":"ثَ","en-sound":"tha", "bn-sound":"ছা" },
+  { "sl":"5",  "letter":"جَ","en-sound":"ja", "bn-sound":"যা" },
+  { "sl":"6",  "letter":"حَ","en-sound":"ḥa", "bn-sound":"হা (হলক)" },
+  { "sl":"7",  "letter":"خَ","en-sound":"kha", "bn-sound":"খ" },
+
+  { "sl":"8",  "letter":"دَ","en-sound":"da", "bn-sound":"দা" },
+  { "sl":"9",  "letter":"ذَ","en-sound":"ḏa", "bn-sound":"যা" },
+  { "sl":"10", "letter":"رَ","en-sound":"ra", "bn-sound":"র" },
+  { "sl":"11", "letter":"زَ","en-sound":"za", "bn-sound":"ঝা" },
+
+  { "sl":"12", "letter":"سَ","en-sound":"sa", "bn-sound":"সা" },
+  { "sl":"13", "letter":"شَ","en-sound":"sha", "bn-sound":"শা" },
+
+  { "sl":"14", "letter":"صَ","en-sound":"ṣa", "bn-sound":"স্ব" },
+  { "sl":"15", "letter":"ضَ","en-sound":"ḍa", "bn-sound":"দ্ব" },
+  { "sl":"16", "letter":"طَ","en-sound":"ṭa", "bn-sound":"ত্ব" },
+  { "sl":"17", "letter":"ظَ","en-sound":"ẓa", "bn-sound":"জ্ব" },
+
+  { "sl":"18", "letter":"عَ","en-sound":"ʿa", "bn-sound":"আ'" },
+  { "sl":"19", "letter":"غَ","en-sound":"gha", "bn-sound":"গ" },
+  { "sl":"20", "letter":"فَ","en-sound":"fa", "bn-sound":"ফা" },
+  { "sl":"21", "letter":"قَ","en-sound":"qa", "bn-sound":"ক্ব" },
+  { "sl":"22", "letter":"كَ","en-sound":"ka", "bn-sound":"কা" },
+  { "sl":"23", "letter":"لَ","en-sound":"la", "bn-sound":"লা" },
+  { "sl":"24", "letter":"مَ","en-sound":"ma", "bn-sound":"মা" },
+  { "sl":"25", "letter":"نَ","en-sound":"na", "bn-sound":"না" },
+{ "sl":"26", "letter":"وَ","en-sound":"wa", "bn-sound":"ওয়া" },
+  { "sl":"27", "letter":"هَ","en-sound":"ha", "bn-sound":"হা" },
+  
+  { "sl":"28", "letter":"يَ","en-sound":"ya", "bn-sound":"ইয়া" }
+]

@@ -1,0 +1,37 @@
+[
+  { "sl":"1",  "letter":"إِ","en-sound":"ʾi", "bn-sound":"ই" },
+  { "sl":"2",  "letter":"بِ","en-sound":"bi", "bn-sound":"বি" },
+  { "sl":"3",  "letter":"تِ","en-sound":"ti", "bn-sound":"তি" },
+  { "sl":"4",  "letter":"ثِ","en-sound":"thi", "bn-sound":"ছি" },
+  { "sl":"5",  "letter":"جِ","en-sound":"ji", "bn-sound":"জি" },
+  { "sl":"6",  "letter":"حِ","en-sound":"ḥi", "bn-sound":"হি (হলক)" },
+  { "sl":"7",  "letter":"خِ","en-sound":"khi", "bn-sound":"খি" },
+
+  { "sl":"8",  "letter":"دِ","en-sound":"di", "bn-sound":"দি" },
+  { "sl":"9",  "letter":"ذِ","en-sound":"ḏi", "bn-sound":"যি" },
+  { "sl":"10", "letter":"رِ","en-sound":"ri", "bn-sound":"রি" },
+  { "sl":"11", "letter":"زِ","en-sound":"zi", "bn-sound":"ঝি" },
+
+  { "sl":"12", "letter":"سِ","en-sound":"si", "bn-sound":"সি" },
+  { "sl":"13", "letter":"شِ","en-sound":"shi", "bn-sound":"শি" },
+
+  { "sl":"14", "letter":"صِ","en-sound":"ṣi", "bn-sound":"স্বি" },
+  { "sl":"15", "letter":"ضِ","en-sound":"ḍi", "bn-sound":"দ্বি" },
+  { "sl":"16", "letter":"طِ","en-sound":"ṭi", "bn-sound":"ত্বি" },
+  { "sl":"17", "letter":"ظِ","en-sound":"ẓi", "bn-sound":"জ্বি" },
+
+  { "sl":"18", "letter":"عِ","en-sound":"ʿi", "bn-sound":"ই'" },
+  { "sl":"19", "letter":"غِ","en-sound":"ghi", "bn-sound":"গি" },
+
+  { "sl":"20", "letter":"فِ","en-sound":"fi", "bn-sound":"ফি" },
+  { "sl":"21", "letter":"قِ","en-sound":"qi", "bn-sound":"ক্বি" },
+  { "sl":"22", "letter":"كِ","en-sound":"ki", "bn-sound":"কি" },
+  { "sl":"23", "letter":"لِ","en-sound":"li", "bn-sound":"লি" },
+  { "sl":"24", "letter":"مِ","en-sound":"mi", "bn-sound":"মি" },
+  { "sl":"25", "letter":"نِ","en-sound":"ni", "bn-sound":"নি" },
+
+  { "sl":"26", "letter":"وِ","en-sound":"wi", "bn-sound":"উই" },
+  { "sl":"27", "letter":"هِ","en-sound":"hi", "bn-sound":"হি" },
+
+  { "sl":"28", "letter":"يِ","en-sound":"yi", "bn-sound":"য়ি" }
+]
