@@ -3,31 +3,31 @@
     "sl":"1",
     "three-letters":"صلح",
     "en-letters":"sa-d-la-m-hha",
-    "bn-letters":"স্ব-দ-লা-ম-হা (হলক)"
+    "bn-letters":"স্বদ-লাম-হা (হলক)"
   },
   {
     "sl":"2",
     "three-letters":"بصل",
     "en-letters":"ba-sa-d-la-m",
-    "bn-letters":"বা-স্ব-দ-লা-ম"
+    "bn-letters":"বা-স্বদ-লাম"
   },
   {
     "sl":"3",
     "three-letters":"خاص",
     "en-letters":"kha-alif-sa-d",
-    "bn-letters":"খ-আলিফ-স্ব-দ"
+    "bn-letters":"খ-আলিফ-স্বদ"
   },
   {
     "sl":"4",
     "three-letters":"عناك",
     "en-letters":"a'in-noon-alif-ka-f",
-    "bn-letters":"আ'ইন-নূন-আলিফ-কা-ফ"
+    "bn-letters":"আ'ইন-নূন-আলিফ-কাফ"
   },
   {
     "sl":"5",
     "three-letters":"لحن",
     "en-letters":"la-m-hha-noon",
-    "bn-letters":"লা-ম-হা (হলক)-নূন"
+    "bn-letters":"লাম-হা (হলক)-নূন"
   },
   {
     "sl":"6",
@@ -57,7 +57,7 @@
     "sl":"10",
     "three-letters":"يصل",
     "en-letters":"ya-sa-d-la-m",
-    "bn-letters":"ইয়া-স্ব-দ-লা-ম"
+    "bn-letters":"ইয়া-স্বদ-লাম"
   },
   {
     "sl":"11",
@@ -69,7 +69,7 @@
     "sl":"12",
     "three-letters":"كسب",
     "en-letters":"ka-f-seen-ba",
-    "bn-letters":"কা-ফ-সীন-বা"
+    "bn-letters":"কাফ-সীন-বা"
   },
   {
     "sl":"13",
@@ -81,7 +81,7 @@
     "sl":"14",
     "three-letters":"ليس",
     "en-letters":"la-m-ya-seen",
-    "bn-letters":"লা-ম-ইয়া-সীন"
+    "bn-letters":"লাম-ইয়া-সীন"
   },
   {
     "sl":"15",
@@ -93,7 +93,7 @@
     "sl":"16",
     "three-letters":"طلب",
     "en-letters":"ta-la-m-ba",
-    "bn-letters":"তা-লা-ম-বা"
+    "bn-letters":"তা-লাম-বা"
   },
   {
     "sl":"17",
@@ -111,7 +111,7 @@
     "sl":"19",
     "three-letters":"علم",
     "en-letters":"a'in-la-m-meem",
-    "bn-letters":"আ'ইন-লা-ম-মীম"
+    "bn-letters":"আ'ইন-লাম-মীম"
   },
   {
     "sl":"20",
@@ -129,25 +129,25 @@
     "sl":"22",
     "three-letters":"قلم",
     "en-letters":"qa-f-la-m",
-    "bn-letters":"ক্ব-ফ-লা-ম"
+    "bn-letters":"ক্বফ-লাম"
   },
   {
     "sl":"23",
     "three-letters":"عقل",
     "en-letters":"a'in-qa-f-la-m",
-    "bn-letters":"আ'ইন-ক্ব-ফ-লা-ম"
+    "bn-letters":"আ'ইন-ক্বফ-লাম"
   },
   {
     "sl":"24",
     "three-letters":"علق",
     "en-letters":"a'in-la-m-qa-f",
-    "bn-letters":"আ'ইন-লা-ম-ক্ব-ফ"
+    "bn-letters":"আ'ইন-লাম-ক্বফ"
   },
   {
     "sl":"25",
     "three-letters":"هلك",
     "en-letters":"ha-la-m-ka-f",
-    "bn-letters":"হা-লা-ম-কা-ফ"
+    "bn-letters":"হা-লাম-কাফ"
   },
   {
     "sl":"26",
@@ -165,24 +165,24 @@
     "sl":"28",
     "three-letters":"كنت",
     "en-letters":"ka-f-noon-ta",
-    "bn-letters":"কা-ফ-নূন-তা"
+    "bn-letters":"কাফ-নূন-তা"
   },
   {
     "sl":"29",
     "three-letters":"سكن",
     "en-letters":"seen-ka-f-noon",
-    "bn-letters":"সীন-কা-ফ-নূন"
+    "bn-letters":"সীন-কাফ-নূন"
   },
   {
     "sl":"30",
     "three-letters":"ضحك",
     "en-letters":"da-d-ha-ka-f",
-    "bn-letters":"দ্ব-দ-হা-কা-ফ"
+    "bn-letters":"দ্বদ-হা-কাফ"
   },
   {
     "sl":"31",
     "three-letters":"يتلو",
     "en-letters":"ya-ta-la-m-waw",
-    "bn-letters":"ইয়া-তা-লা-ম-ওয়াও"
+    "bn-letters":"ইয়া-তা-লাম-ওয়াও"
   }
 ]
