@@ -1,0 +1,352 @@
+[
+  { "sl": "1", "word": "بَعَ", "en-sound": "ba'a", "bn-sound": "বাআ’" },
+  { "sl": "2", "word": "بَعًا", "en-sound": "ba'an", "bn-sound": "বাআন" },
+  { "sl": "3", "word": "دَعِ", "en-sound": "da'i", "bn-sound": "দা’ই" },
+  { "sl": "4", "word": "اَب", "en-sound": "ab", "bn-sound": "আব" },
+  { "sl": "5", "word": "هُدًى", "en-sound": "hudan", "bn-sound": "হুদান" },
+  { "sl": "6", "word": "مَعَا", "en-sound": "ma'aa", "bn-sound": "মাআ" },
+  { "sl": "7", "word": "أَحَدَ", "en-sound": "a'hada", "bn-sound": "আ’হাদা" },
+  { "sl": "8", "word": "أَخَذَ", "en-sound": "akhadha", "bn-sound": "আখাধা" },
+  { "sl": "9", "word": "أَبَدًا", "en-sound": "abadan", "bn-sound": "আবাদান" },
+  {
+    "sl": "10",
+    "word": "جَسَدًا",
+    "en-sound": "jasadan",
+    "bn-sound": "জাসাদান"
+  },
+  {
+    "sl": "11",
+    "word": "رَشَدًا",
+    "en-sound": "rashadan",
+    "bn-sound": "রাশাদান"
+  },
+  { "sl": "12", "word": "أَذِنَ", "en-sound": "a'dhina", "bn-sound": "আ’ধিনা" },
+  {
+    "sl": "13",
+    "word": "رَفَقًا",
+    "en-sound": "rafaqan",
+    "bn-sound": "রাফাকান"
+  },
+  {
+    "sl": "14",
+    "word": "حَرَسًا",
+    "en-sound": "harasan",
+    "bn-sound": "হারাসান"
+  },
+  { "sl": "15", "word": "جَمَعَ", "en-sound": "jama'a", "bn-sound": "জামা’আ" },
+  { "sl": "16", "word": "حَشَرَ", "en-sound": "hashara", "bn-sound": "হাশারা" },
+  { "sl": "17", "word": "جَعَلَ", "en-sound": "ja'ala", "bn-sound": "জা’আলা" },
+  {
+    "sl": "18",
+    "word": "شَطَطًا",
+    "en-sound": "shatatan",
+    "bn-sound": "শাতাতান"
+  },
+  { "sl": "19", "word": "مَعَكَ", "en-sound": "ma'aka", "bn-sound": "মা’আকা" },
+  {
+    "sl": "20",
+    "word": "قَدَرَ",
+    "en-sound": "qadara",
+    "bn-sound": "ক্বাদারা"
+  },
+  { "sl": "21", "word": "كَفَرَ", "en-sound": "kafara", "bn-sound": "কাফারা" },
+  {
+    "sl": "22",
+    "word": "وَلَدَ",
+    "en-sound": "walada",
+    "bn-sound": "ওয়ালাদা"
+  },
+  {
+    "sl": "23",
+    "word": "كَبَدٍ",
+    "en-sound": "kabadin",
+    "bn-sound": "কাবাদিন"
+  },
+  { "sl": "24", "word": "عَلَى", "en-sound": "'ala", "bn-sound": "’আলা" },
+  {
+    "sl": "25",
+    "word": "طَبَقٍ",
+    "en-sound": "tabaqin",
+    "bn-sound": "তাবাকিন"
+  },
+  {
+    "sl": "26",
+    "word": "لَهَبٍ",
+    "en-sound": "lahabin",
+    "bn-sound": "লাহাবিন"
+  },
+  {
+    "sl": "27",
+    "word": "مَسَدٍ",
+    "en-sound": "masadin",
+    "bn-sound": "মাসাদিন"
+  },
+  {
+    "sl": "28",
+    "word": "عَمَدٍ",
+    "en-sound": "'amadin",
+    "bn-sound": "’আমাদিন"
+  },
+  { "sl": "29", "word": "جَهَرَ", "en-sound": "jahara", "bn-sound": "জাহারা" },
+  { "sl": "30", "word": "سَرَقَ", "en-sound": "saraqa", "bn-sound": "সারাকা" },
+  { "sl": "31", "word": "احَدٌ", "en-sound": "a'hadun", "bn-sound": "আ’হাদুন" },
+  { "sl": "32", "word": "صَمَد", "en-sound": "samad", "bn-sound": "সামাদ" },
+  { "sl": "33", "word": "عَمِلَ", "en-sound": "'amila", "bn-sound": "’আমিলা" },
+  {
+    "sl": "34",
+    "word": "ذَهَبٍ",
+    "en-sound": "dhahabin",
+    "bn-sound": "যাহাবিন"
+  },
+  { "sl": "35", "word": "كُتُبُ", "en-sound": "kutubu", "bn-sound": "কুতুবু" },
+  { "sl": "36", "word": "فَطَرَ", "en-sound": "fatara", "bn-sound": "ফাতারা" },
+  { "sl": "37", "word": "سُرُ", "en-sound": "suru", "bn-sound": "সুরু" },
+  {
+    "sl": "38",
+    "word": "وَجَدَ",
+    "en-sound": "wajada",
+    "bn-sound": "ওয়াজাদা"
+  },
+  { "sl": "39", "word": "مُنِعَ", "en-sound": "muni'a", "bn-sound": "মুনি’আ" },
+  {
+    "sl": "40",
+    "word": "صُحُفًا",
+    "en-sound": "suhufan",
+    "bn-sound": "সুহুফান"
+  },
+  {
+    "sl": "41",
+    "word": "شُهُبًا",
+    "en-sound": "shuhuban",
+    "bn-sound": "শুহুবান"
+  },
+  {
+    "sl": "42",
+    "word": "كُفُوًا",
+    "en-sound": "kufuwan",
+    "bn-sound": "কুফুওয়ান"
+  },
+  {
+    "sl": "43",
+    "word": "لَبَدًا",
+    "en-sound": "labadan",
+    "bn-sound": "লাবাদান"
+  },
+  { "sl": "44", "word": "طُوى", "en-sound": "tuwa", "bn-sound": "তুয়া" },
+  { "sl": "45", "word": "ضُحَى", "en-sound": "dhuha", "bn-sound": "দ্বুহা" },
+  {
+    "sl": "46",
+    "word": "شُعَبٍ",
+    "en-sound": "shu'abin",
+    "bn-sound": "শু’আবিন"
+  },
+  { "sl": "47", "word": "نُفِخَ", "en-sound": "nufikha", "bn-sound": "নুফিখা" },
+  { "sl": "48", "word": "ذُكِرَ", "en-sound": "dhukira", "bn-sound": "যুকিরা" },
+  { "sl": "49", "word": "قَسَم", "en-sound": "qasam", "bn-sound": "ক্বাসাম" },
+  {
+    "sl": "50",
+    "word": "حَطَبٌ",
+    "en-sound": "hatabun",
+    "bn-sound": "হাতাবুন"
+  },
+  {
+    "sl": "51",
+    "word": "كَذِبًا",
+    "en-sound": "kadhiban",
+    "bn-sound": "কাধিবান"
+  },
+  { "sl": "52", "word": "أَمَرَ", "en-sound": "amara", "bn-sound": "আমারা" },
+  { "sl": "53", "word": "خُلِقَ", "en-sound": "khuliqa", "bn-sound": "খুলিকা" },
+  { "sl": "54", "word": "جَمَعَ", "en-sound": "jama'a", "bn-sound": "জামা’আ" },
+  {
+    "sl": "55",
+    "word": "قُرِئَ",
+    "en-sound": "quri'a",
+    "bn-sound": "ক্বুরি’আ"
+  },
+  { "sl": "56", "word": "حَسَن", "en-sound": "hasan", "bn-sound": "হাসান" },
+  {
+    "sl": "57",
+    "word": "اَحَدٍ",
+    "en-sound": "a'hadin",
+    "bn-sound": "আ’হাদিন"
+  },
+  { "sl": "58", "word": "رُسُلُ", "en-sound": "rusulu", "bn-sound": "রুসুলু" },
+  {
+    "sl": "59",
+    "word": "سَنَةٌ",
+    "en-sound": "sanatun",
+    "bn-sound": "সানাতুন"
+  },
+  { "sl": "60", "word": "تَبِعَ", "en-sound": "tabi'a", "bn-sound": "তাবি’আ" },
+  { "sl": "61", "word": "سُوَى", "en-sound": "suwa", "bn-sound": "সুয়া" },
+  {
+    "sl": "62",
+    "word": "مَطَرًا",
+    "en-sound": "mataran",
+    "bn-sound": "মাতারান"
+  },
+  {
+    "sl": "63",
+    "word": "عِنَبًا",
+    "en-sound": "'inaban",
+    "bn-sound": "’ইনাবান"
+  },
+  {
+    "sl": "64",
+    "word": "لَعِبٌ",
+    "en-sound": "la'ibun",
+    "bn-sound": "লা’ইবুন"
+  },
+  {
+    "sl": "65",
+    "word": "دُبُرٍ",
+    "en-sound": "duburin",
+    "bn-sound": "দুবুরিন"
+  },
+  {
+    "sl": "66",
+    "word": "صَعَدًا",
+    "en-sound": "sa'adan",
+    "bn-sound": "সা’আদান"
+  },
+  {
+    "sl": "67",
+    "word": "قَتَرَةٌ",
+    "en-sound": "qataratun",
+    "bn-sound": "ক্বাতারাতুন"
+  },
+  {
+    "sl": "68",
+    "word": "عَلَقَةً",
+    "en-sound": "'alaqatan",
+    "bn-sound": "’আলাকাতান"
+  },
+  {
+    "sl": "69",
+    "word": "غَبَرَةً",
+    "en-sound": "ghabaratan",
+    "bn-sound": "ঘাবারাতান"
+  },
+  {
+    "sl": "70",
+    "word": "دَرَجَةً",
+    "en-sound": "darajatan",
+    "bn-sound": "দারাজাতান"
+  },
+  {
+    "sl": "71",
+    "word": "شَجَرَةٌ",
+    "en-sound": "shajaratun",
+    "bn-sound": "শাজারাতুন"
+  },
+  {
+    "sl": "72",
+    "word": "سَمِعَةٌ",
+    "en-sound": "sami'atun",
+    "bn-sound": "সামি’আতুন"
+  },
+  {
+    "sl": "73",
+    "word": "سَفَرَةِ",
+    "en-sound": "safarati",
+    "bn-sound": "সাফারাতি"
+  },
+  {
+    "sl": "74",
+    "word": "هُمَزَةٍ",
+    "en-sound": "humazatin",
+    "bn-sound": "হুমাযাতিন"
+  },
+  {
+    "sl": "75",
+    "word": "لُمَزَةٍ",
+    "en-sound": "lumazatin",
+    "bn-sound": "লুমাযাতিন"
+  },
+  {
+    "sl": "76",
+    "word": "كَلِمَةٌ",
+    "en-sound": "kalimatun",
+    "bn-sound": "কালিমাতুন"
+  },
+  {
+    "sl": "77",
+    "word": "فَطِرَةٌ",
+    "en-sound": "fatiratun",
+    "bn-sound": "ফাতিরাতুন"
+  },
+  {
+    "sl": "78",
+    "word": "رَقَبَةٍ",
+    "en-sound": "raqabatin",
+    "bn-sound": "রাক্বাবাতিন"
+  },
+  {
+    "sl": "79",
+    "word": "كَمَثَلِ",
+    "en-sound": "kamathali",
+    "bn-sound": "কমাছালি"
+  },
+  {
+    "sl": "80",
+    "word": "بِقَرَرٍ",
+    "en-sound": "biqararin",
+    "bn-sound": "বিক্বারারিন"
+  },
+  {
+    "sl": "81",
+    "word": "بِرَجُلٍ",
+    "en-sound": "birajulin",
+    "bn-sound": "বিরাজুলিন"
+  },
+  {
+    "sl": "82",
+    "word": "لِبَشَرِ",
+    "en-sound": "libashari",
+    "bn-sound": "লিবাশারি"
+  },
+  {
+    "sl": "83",
+    "word": "فَأَجَلٌ",
+    "en-sound": "fa'ajalun",
+    "bn-sound": "ফা’আজালুন"
+  },
+  {
+    "sl": "84",
+    "word": "فَنُزُلُ",
+    "en-sound": "fanuzulu",
+    "bn-sound": "ফানুজুলু"
+  },
+  {
+    "sl": "85",
+    "word": "فَبَدَأَ",
+    "en-sound": "fabada'a",
+    "bn-sound": "ফাবাদা’আ"
+  },
+  { "sl": "86", "word": "بثمن", "en-sound": "bithaman", "bn-sound": "বিথামান" },
+  {
+    "sl": "87",
+    "word": "بَرَرَةِ",
+    "en-sound": "bararati",
+    "bn-sound": "বারারাতি"
+  },
+  {
+    "sl": "88",
+    "word": "فَصَرَفَ",
+    "en-sound": "fasarafa",
+    "bn-sound": "ফাসারাফা"
+  },
+  {
+    "sl": "89",
+    "word": "فَرَحَةٌ",
+    "en-sound": "farahatun",
+    "bn-sound": "ফারাহাতুন"
+  },
+  {
+    "sl": "90",
+    "word": "صَدَقَةٍ",
+    "en-sound": "sadaqatin",
+    "bn-sound": "সাদাকাতিন"
+  }
+]
