@@ -1,0 +1,38 @@
+[
+  { "sl":"1",  "letter":"بَبَ",       "en-sound":"baba",      "bn-sound":"বাবা" },
+  { "sl":"2",  "letter":"دَدَ",       "en-sound":"dada",      "bn-sound":"দাদা" },
+  { "sl":"3",  "letter":"نَنَ",       "en-sound":"nana",      "bn-sound":"নানা" },
+  { "sl":"4",  "letter":"مَمَ",       "en-sound":"mama",      "bn-sound":"মামা" },
+
+  { "sl":"5",  "letter":"دَدِ",       "en-sound":"dadi",      "bn-sound":"দাদি" },
+  { "sl":"6",  "letter":"نَنِ",       "en-sound":"nani",      "bn-sound":"নানি" },
+  { "sl":"7",  "letter":"مَمِ",       "en-sound":"mami",      "bn-sound":"মামি" },
+  { "sl":"8",  "letter":"فُفُ",       "en-sound":"fufu",      "bn-sound":"ফুফু" },
+
+  { "sl":"9",  "letter":"خَلُ",       "en-sound":"khalu",     "bn-sound":"খালু" },
+  { "sl":"10", "letter":"هُوَ",       "en-sound":"huwa",      "bn-sound":"হুয়া" },
+  { "sl":"11", "letter":"هِیَ",       "en-sound":"hiya",      "bn-sound":"হিয়া" },
+  { "sl":"12", "letter":"بِکَ",       "en-sound":"bika",      "bn-sound":"বিকা" },
+
+  { "sl":"13", "letter":"بَعَ",       "en-sound":"ba a'a",    "bn-sound":"বাআ’" },
+  { "sl":"14", "letter":"مَعَ",       "en-sound":"ma a'a",    "bn-sound":"মাআ’" },
+  { "sl":"15", "letter":"لِیَ",       "en-sound":"liya",      "bn-sound":"লিয়া" },
+  { "sl":"16", "letter":"کَتَبَ",     "en-sound":"kataba",    "bn-sound":"কাতাবা" },
+
+  { "sl":"17", "letter":"نَزَلَ",     "en-sound":"nazala",    "bn-sound":"নাঝালা" },
+  { "sl":"18", "letter":"رَفَعَ",     "en-sound":"rafa a'a",  "bn-sound":"রফাআ’" },
+
+  { "sl":"19", "letter":"أَجِلَ",     "en-sound":"ajila",     "bn-sound":"আজিলা" },
+  { "sl":"20", "letter":"بَخِلَ",     "en-sound":"bakhila",   "bn-sound":"বাখিলা" },
+  { "sl":"21", "letter":"سَمِعَ",     "en-sound":"sami'a",    "bn-sound":"সামি‘আ" },
+  { "sl":"22", "letter":"حَمِدَ",     "en-sound":"hamida",    "bn-sound":"হামিদা" },
+  { "sl":"23", "letter":"مَرِضَ",     "en-sound":"maridha",   "bn-sound":"মারিদ্ব" },
+
+  { "sl":"24", "letter":"خَشِیَ",     "en-sound":"khashiya",  "bn-sound":"খশিইয়া" },
+  { "sl":"25", "letter":"کَبُرَ",     "en-sound":"kabura",    "bn-sound":"কাবুর" },
+  { "sl":"26", "letter":"فَهُوَ",     "en-sound":"fahuwa",    "bn-sound":"ফাহুয়া" },
+  { "sl":"27", "letter":"قُتِلَ",     "en-sound":"kutila",    "bn-sound":"ক্বুতিলা" },
+  { "sl":"28", "letter":"ثَقُلَ",     "en-sound":"thakula",   "bn-sound":"ছাক্বুলা" },
+  { "sl":"29", "letter":"تُبِعَ",     "en-sound":"tubi'a",    "bn-sound":"তুবি‘আ" },
+  { "sl":"30", "letter":"قُرِئَ",     "en-sound":"quri'a",    "bn-sound":"ক্বুরিইয়া" }
+]

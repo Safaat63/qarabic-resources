@@ -1,122 +1,102 @@
 [
-  {
-    "sl":"1",
-    "word":"تعبت",
-    "en-letters":"ta-ain-ba-ta",
-    "bn-letters":"তা-আ'ইন-বা-তা"
-  },
-  {
-    "sl":"2",
-    "word":"جبان",
-    "en-letters":"jeem-ba-alif-noon",
-    "bn-letters":"জীম-বা-আলিফ-নূন"
-  },
-  {
-    "sl":"3",
-    "word":"لعابك",
-    "en-letters":"la-m-a'in-alif-ba-ka-f",
-    "bn-letters":"লাম-আ'ইন-আলিফ-বা-কাফ"
-  },
-  {
-    "sl":"4",
-    "word":"مقطع",
-    "en-letters":"meem-qa-f-ta-ain",
-    "bn-letters":"মীম-ক্বফ-ত্ব-আ'ইন"
-  },
-  {
-    "sl":"5",
-    "word":"نقلت",
-    "en-letters":"noon-qa-f-la-m-ta",
-    "bn-letters":"নূন-ক্বফ-লাম-তা"
-  },
-  {
-    "sl":"6",
-    "word":"ينقلب",
-    "en-letters":"ya-noon-qa-f-la-m-ba",
-    "bn-letters":"ইয়া-নূন-ক্বফ-লাম-বা"
-  },
-  {
-    "sl":"7",
-    "word":"تضليل",
-    "en-letters":"ta-da-d-la-m-ya-la-m",
-    "bn-letters":"তা-দ্বদ-লাম-ইয়া-লাম"
-  },
-  {
-    "sl":"8",
-    "word":"يتكلم",
-    "en-letters":"ya-ta-ka-f-la-m-meem",
-    "bn-letters":"ইয়া-তা-কাফ-লাম-মীম"
-  },
-  {
-    "sl":"9",
-    "word":"تمليك",
-    "en-letters":"ta-meem-la-m-ya-ka-f",
-    "bn-letters":"তা-মীম-লাম-ইয়া-কাফ"
-  },
-  {
-    "sl":"10",
-    "word":"ممتحن",
-    "en-letters":"meem-meem-ta-hha-noon",
-    "bn-letters":"মীম-মীম-তা-হা (হলক)-নূন"
-  },
-  {
-    "sl":"11",
-    "word":"لفسقين",
-    "en-letters":"la-m-fa-seen-qa-f-ya-noon",
-    "bn-letters":"লাম-ফা-সীন-ক্বফ-ইয়া-নূন"
-  },
-  {
-    "sl":"12",
-    "word":"ينفعكم",
-    "en-letters":"ya-noon-fa-a'in-ka-f-meem",
-    "bn-letters":"ইয়া-নূন-ফা-আ'ইন-কাফ-মীম"
-  },
-  {
-    "sl":"13",
-    "word":"يسقين",
-    "en-letters":"ya-seen-qa-f-ya-noon",
-    "bn-letters":"ইয়া-সীন-ক্বফ-ইয়া-নূন"
-  },
-  {
-    "sl":"14",
-    "word":"للمتقين",
-    "en-letters":"la-m-la-m-meem-ta-qa-f-ya-noon",
-    "bn-letters":"লাম-লাম-মীম-তা-ক্বফ-ইয়া-নূন"
-  },
-  {
-    "sl":"15",
-    "word":"يجعلها",
-    "en-letters":"ya-jeem-a'in-la-m-ha-alif",
-    "bn-letters":"ইয়া-জীম-আ'ইন-লাম-হা-আলিফ"
-  },
-  {
-    "sl":"16",
-    "word":"للعالمين",
-    "en-letters":"la-m-la-m-a'in-la-m-meem-ya-noon",
-    "bn-letters":"লাম-লাম-আ'ইন-লাম-মীম-ইয়া-নূন"
-  },
-  {
-    "sl":"17",
-    "word":"لنسعدهم",
-    "en-letters":"la-m-noon-seen-a'in-da-l-ha-meem",
-    "bn-letters":"লাম-নূন-সীন-আ'ইন-দাল-হা-মীম"
-  },
-  {
-    "sl":"18",
-    "word":"ليجمعكم",
-    "en-letters":"la-m-ya-jeem-meem-a'in-ka-f-meem",
-    "bn-letters":"লাম-ইয়া-জীম-মীম-আ'ইন-কাফ-মীম"
-  },
-  {
-    "sl":"19",
-    "word":"ليستخلفكم",
-    "en-letters":"la-m-ya-seen-ta-kha-la-m-fa-ka-f-meem",
-    "bn-letters":"লাম-ইয়া-সীন-তা-খ-লাম-ফা-কাফ-মীম"
-  },
-  {
-    "sl":"20",
-    "word":"مستضعفين",
-    "en-letters":"meem-seen-ta-da-d-a'in-fa-ya-noon",
-    "bn-letters":"মীম-সীন-তা-দ্বদ-আ'ইন-ফা-ইয়া-নূন"
-  }
+  { "sl":"1",  "letter":"أً", "en-sound":"ʾan",  "bn-sound":"আন" },
+  { "sl":"2",  "letter":"بً", "en-sound":"ban",  "bn-sound":"বান" },
+  { "sl":"3",  "letter":"تً", "en-sound":"tan",  "bn-sound":"তান" },
+  { "sl":"4",  "letter":"ثً", "en-sound":"than", "bn-sound":"ছান" },
+  { "sl":"5",  "letter":"جً", "en-sound":"jan",  "bn-sound":"জান" },
+  { "sl":"6",  "letter":"حً", "en-sound":"ḥan",  "bn-sound":"হান (হলক)" },
+
+  { "sl":"7",  "letter":"خً", "en-sound":"khan", "bn-sound":"খন" },
+  { "sl":"8",  "letter":"دً", "en-sound":"dan",  "bn-sound":"দান" },
+  { "sl":"9",  "letter":"ذً", "en-sound":"ḏan", "bn-sound":"যান" },
+  { "sl":"10", "letter":"رً", "en-sound":"ran",  "bn-sound":"রন" },
+  { "sl":"11", "letter":"زً", "en-sound":"zan",  "bn-sound":"ঝান" },
+  { "sl":"12", "letter":"سً", "en-sound":"san",  "bn-sound":"সান" },
+
+  { "sl":"13", "letter":"شً", "en-sound":"shan", "bn-sound":"শান" },
+  { "sl":"14", "letter":"صً", "en-sound":"ṣan",  "bn-sound":"স্বন" },
+  { "sl":"15", "letter":"ضً", "en-sound":"ḍan",  "bn-sound":"দ্বন" },
+  { "sl":"16", "letter":"طً", "en-sound":"ṭan",  "bn-sound":"ত্বন" },
+  { "sl":"17", "letter":"ظً", "en-sound":"ẓan",  "bn-sound":"জ্বন" },
+  { "sl":"18", "letter":"عً", "en-sound":"ʿan",  "bn-sound":"আ'ন′ (গলা)" },
+
+  { "sl":"19", "letter":"غً", "en-sound":"ghan", "bn-sound":"গন (গলা)" },
+  { "sl":"20", "letter":"فً", "en-sound":"fan",  "bn-sound":"ফান" },
+  { "sl":"21", "letter":"قً", "en-sound":"qan",  "bn-sound":"ক্বন" },
+  { "sl":"22", "letter":"كً", "en-sound":"kan",  "bn-sound":"কান" },
+  { "sl":"23", "letter":"لً", "en-sound":"lan",  "bn-sound":"লান" },
+  { "sl":"24", "letter":"مً", "en-sound":"man",  "bn-sound":"মান" },
+
+  { "sl":"25", "letter":"نً", "en-sound":"nan",  "bn-sound":"নান" },
+  { "sl":"26", "letter":"وً", "en-sound":"wan",  "bn-sound":"ওয়ান" },
+  { "sl":"27", "letter":"هً", "en-sound":"han",  "bn-sound":"হান" },
+  { "sl":"28", "letter":"يً", "en-sound":"yan",  "bn-sound":"ইয়ান" },
+
+  { "sl":"29", "letter":"إٍ", "en-sound":"ʾin",  "bn-sound":"ইন" },
+  { "sl":"30", "letter":"بٍ", "en-sound":"bin",  "bn-sound":"বিন" },
+  { "sl":"31", "letter":"تٍ", "en-sound":"tin",  "bn-sound":"তিন" },
+  { "sl":"32", "letter":"ثٍ", "en-sound":"thin", "bn-sound":"ছিন" },
+  { "sl":"33", "letter":"جٍ", "en-sound":"jin",  "bn-sound":"জিন" },
+  { "sl":"34", "letter":"حٍ", "en-sound":"ḥin",  "bn-sound":"হিন (হলক)" },
+
+  { "sl":"35", "letter":"خٍ", "en-sound":"khin", "bn-sound":"খিন" },
+  { "sl":"36", "letter":"دٍ", "en-sound":"din",  "bn-sound":"দিন" },
+  { "sl":"37", "letter":"ذٍ", "en-sound":"ḏin", "bn-sound":"যিন" },
+  { "sl":"38", "letter":"رٍ", "en-sound":"rin",  "bn-sound":"রিন" },
+  { "sl":"39", "letter":"زٍ", "en-sound":"zin",  "bn-sound":"ঝিন" },
+  { "sl":"40", "letter":"سٍ", "en-sound":"sin",  "bn-sound":"সিন" },
+
+  { "sl":"41", "letter":"شٍ", "en-sound":"shin", "bn-sound":"শিন" },
+  { "sl":"42", "letter":"صٍ", "en-sound":"ṣin",  "bn-sound":"স্বিন" },
+  { "sl":"43", "letter":"ضٍ", "en-sound":"ḍin",  "bn-sound":"দ্বিন" },
+  { "sl":"44", "letter":"طٍ", "en-sound":"ṭin",  "bn-sound":"ত্বিন" },
+  { "sl":"45", "letter":"ظٍ", "en-sound":"ẓin",  "bn-sound":"জ্বিন" },
+  { "sl":"46", "letter":"عٍ", "en-sound":"ʿin",  "bn-sound":"ই'ন" },
+
+  { "sl":"47", "letter":"غٍ", "en-sound":"ghin", "bn-sound":"গিন (গলা)" },
+  { "sl":"48", "letter":"فٍ", "en-sound":"fin",  "bn-sound":"ফিন" },
+  { "sl":"49", "letter":"قٍ", "en-sound":"qin",  "bn-sound":"ক্বিন" },
+  { "sl":"50", "letter":"كٍ", "en-sound":"kin",  "bn-sound":"কিন" },
+  { "sl":"51", "letter":"لٍ", "en-sound":"lin",  "bn-sound":"লিন" },
+  { "sl":"52", "letter":"مٍ", "en-sound":"min",  "bn-sound":"মিন" },
+
+  { "sl":"53", "letter":"نٍ", "en-sound":"nin",  "bn-sound":"নিন" },
+  { "sl":"54", "letter":"وٍ", "en-sound":"win",  "bn-sound":"উইন" },
+  { "sl":"55", "letter":"هِ", "en-sound":"hin",  "bn-sound":"হিন" },
+  { "sl":"56", "letter":"يٍ", "en-sound":"yin",  "bn-sound":"য়িন" },
+
+  
+{ "sl":"57", "letter":"أٌ", "en-sound":"ʾun",  "bn-sound":"উন" },
+  { "sl":"58", "letter":"بٌ", "en-sound":"bun",  "bn-sound":"বুন" },
+  { "sl":"59", "letter":"تٌ", "en-sound":"tun",  "bn-sound":"তুন" },
+  { "sl":"60", "letter":"ثٌ", "en-sound":"thun", "bn-sound":"ছুন" },
+  { "sl":"61", "letter":"جٌ", "en-sound":"jun",  "bn-sound":"জুন" },
+  { "sl":"62", "letter":"حٌ", "en-sound":"ḥun",  "bn-sound":"হুন (হলক)" },
+
+  { "sl":"63", "letter":"خٌ", "en-sound":"khun", "bn-sound":"খুন" },
+  { "sl":"64", "letter":"دٌ", "en-sound":"dun",  "bn-sound":"দুন" },
+  { "sl":"65", "letter":"ذٌ", "en-sound":"ḏun", "bn-sound":"যুন" },
+  { "sl":"66", "letter":"رٌ", "en-sound":"run",  "bn-sound":"রুন" },
+  { "sl":"67", "letter":"زٌ", "en-sound":"zun",  "bn-sound":"ঝুন" },
+  { "sl":"68", "letter":"سٌ", "en-sound":"sun",  "bn-sound":"সুন" },
+
+  { "sl":"69", "letter":"شٌ", "en-sound":"shun", "bn-sound":"শুন" },
+  { "sl":"70", "letter":"صٌ", "en-sound":"ṣun",  "bn-sound":"স্বুন" },
+  { "sl":"71", "letter":"ضٌ", "en-sound":"ḍun",  "bn-sound":"দ্বুন" },
+  { "sl":"72", "letter":"طٌ", "en-sound":"ṭun",  "bn-sound":"ত্বুন" },
+  { "sl":"73", "letter":"ظٌ", "en-sound":"ẓun",  "bn-sound":"জ্বুন" },
+  { "sl":"74", "letter":"عٌ", "en-sound":"ʿun",  "bn-sound":"উ’ন" },
+
+  { "sl":"75", "letter":"غٌ", "en-sound":"ghun", "bn-sound":"গুন" },
+  { "sl":"76", "letter":"فٌ", "en-sound":"fun",  "bn-sound":"ফুন" },
+  { "sl":"77", "letter":"قٌ", "en-sound":"qun",  "bn-sound":"ক্বুন" },
+  { "sl":"78", "letter":"كٌ", "en-sound":"kun",  "bn-sound":"কুন" },
+  { "sl":"79", "letter":"لٌ", "en-sound":"lun",  "bn-sound":"লুন" },
+  { "sl":"80", "letter":"مٌ", "en-sound":"mun",  "bn-sound":"মুন" },
+
+  { "sl":"81", "letter":"نٌ", "en-sound":"nun",  "bn-sound":"নুন" },
+  { "sl":"82", "letter":"وٌ", "en-sound":"wun",  "bn-sound":"উন" },
+  { "sl":"83", "letter":"هٌ", "en-sound":"hun",  "bn-sound":"হুন" },
+  { "sl":"84", "letter":"يٌ", "en-sound":"yun",  "bn-sound":"ইউন" }
+
 ]
