@@ -1,0 +1,482 @@
+[
+  {
+    "sl": "1",
+    "word": "حَبْ",
+    "en-sound": "hab",
+    "bn-sound": "হাব্"
+  },
+  {
+    "sl": "2",
+    "word": "حَجْ",
+    "en-sound": "haj",
+    "bn-sound": "হাজ্"
+  },
+  {
+    "sl": "3",
+    "word": "حَصْ",
+    "en-sound": "has",
+    "bn-sound": "হাছ্"
+  },
+  {
+    "sl": "4",
+    "word": "حَوْ",
+    "en-sound": "haw",
+    "bn-sound": "হাও"
+  },
+  {
+    "sl": "5",
+    "word": "حَا",
+    "en-sound": "haa",
+    "bn-sound": "হা"
+  },
+  {
+    "sl": "6",
+    "word": "حَىْ",
+    "en-sound": "hay",
+    "bn-sound": "হাই"
+  },
+  {
+    "sl": "7",
+    "word": "لَنْ",
+    "en-sound": "lan",
+    "bn-sound": "লান্"
+  },
+  {
+    "sl": "8",
+    "word": "لَلْ",
+    "en-sound": "lal",
+    "bn-sound": "লাল্"
+  },
+  {
+    "sl": "9",
+    "word": "لَمْ",
+    "en-sound": "lam",
+    "bn-sound": "লাম্"
+  },
+  {
+    "sl": "10",
+    "word": "لَوْ",
+    "en-sound": "law",
+    "bn-sound": "লাও"
+  },
+  {
+    "sl": "11",
+    "word": "لَىْ",
+    "en-sound": "lay",
+    "bn-sound": "লাই"
+  },
+  {
+    "sl": "12",
+    "word": "لَا",
+    "en-sound": "laa",
+    "bn-sound": "লা"
+  },
+  {
+    "sl": "13",
+    "word": "فَرْ",
+    "en-sound": "faru",
+    "bn-sound": "ফার্"
+  },
+  {
+    "sl": "14",
+    "word": "فَجْ",
+    "en-sound": "faja",
+    "bn-sound": "ফাজ্"
+  },
+  {
+    "sl": "15",
+    "word": "فَكْ",
+    "en-sound": "faku",
+    "bn-sound": "ফাক্"
+  },
+  {
+    "sl": "16",
+    "word": "عَنْ",
+    "en-sound": "'an",
+    "bn-sound": "‘আন্"
+  },
+  {
+    "sl": "17",
+    "word": "فَا",
+    "en-sound": "faa",
+    "bn-sound": "ফা"
+  },
+  {
+    "sl": "18",
+    "word": "فَيْ",
+    "en-sound": "fay",
+    "bn-sound": "ফাই"
+  },
+  {
+    "sl": "19",
+    "word": "فَوْ",
+    "en-sound": "faw",
+    "bn-sound": "ফাও"
+  },
+  {
+    "sl": "20",
+    "word": "عَصْ",
+    "en-sound": "'as",
+    "bn-sound": "‘আছ্"
+  },
+  {
+    "sl": "21",
+    "word": "عَمْ",
+    "en-sound": "'amu",
+    "bn-sound": "‘আম্"
+  },
+  {
+    "sl": "22",
+    "word": "عَوْ",
+    "en-sound": "'aw",
+    "bn-sound": "‘আও"
+  },
+  {
+    "sl": "23",
+    "word": "عَا",
+    "en-sound": "'aa",
+    "bn-sound": "‘আ"
+  },
+  {
+    "sl": "24",
+    "word": "هَلْ",
+    "en-sound": "hal",
+    "bn-sound": "হাল্"
+  },
+  {
+    "sl": "25",
+    "word": "هَمْ",
+    "en-sound": "ham",
+    "bn-sound": "হাম্"
+  },
+  {
+    "sl": "26",
+    "word": "هَكْ",
+    "en-sound": "haka",
+    "bn-sound": "হাক্"
+  },
+  {
+    "sl": "27",
+    "word": "هَوْ",
+    "en-sound": "haw",
+    "bn-sound": "হাও"
+  },
+  {
+    "sl": "28",
+    "word": "هَيْ",
+    "en-sound": "hay",
+    "bn-sound": "হাই"
+  },
+  {
+    "sl": "29",
+    "word": "هَا",
+    "en-sound": "haa",
+    "bn-sound": "হা"
+  },
+  {
+    "sl": "30",
+    "word": "اَنْ",
+    "en-sound": "an",
+    "bn-sound": "আন্"
+  },
+  {
+    "sl": "31",
+    "word": "اَلْ",
+    "en-sound": "al",
+    "bn-sound": "আল্"
+  },
+  {
+    "sl": "32",
+    "word": "اَجْ",
+    "en-sound": "aju",
+    "bn-sound": "আজ্"
+  },
+  {
+    "sl": "33",
+    "word": "اَشْ",
+    "en-sound": "ash",
+    "bn-sound": "আশ্"
+  },
+  {
+    "sl": "34",
+    "word": "اَىْ",
+    "en-sound": "ay",
+    "bn-sound": "আই"
+  },
+  {
+    "sl": "35",
+    "word": "اَوْ",
+    "en-sound": "aw",
+    "bn-sound": "আও"
+  },
+  {
+    "sl": "36",
+    "word": "بِسْ",
+    "en-sound": "bisu",
+    "bn-sound": "বিস্"
+  },
+  {
+    "sl": "37",
+    "word": "بِرْ",
+    "en-sound": "biru",
+    "bn-sound": "বির্"
+  },
+  {
+    "sl": "38",
+    "word": "بِفْ",
+    "en-sound": "bif",
+    "bn-sound": "বিফ্"
+  },
+  {
+    "sl": "39",
+    "word": "بَا",
+    "en-sound": "baa",
+    "bn-sound": "বা"
+  },
+  {
+    "sl": "40",
+    "word": "بُوْ",
+    "en-sound": "buu",
+    "bn-sound": "বূ"
+  },
+  {
+    "sl": "41",
+    "word": "بِي",
+    "en-sound": "bii",
+    "bn-sound": "বী"
+  },
+  {
+    "sl": "42",
+    "word": "سَلْ",
+    "en-sound": "sal",
+    "bn-sound": "সাল্"
+  },
+  {
+    "sl": "43",
+    "word": "سَجْ",
+    "en-sound": "saj",
+    "bn-sound": "সাজ্"
+  },
+  {
+    "sl": "44",
+    "word": "سَتْ",
+    "en-sound": "sat",
+    "bn-sound": "সাত্"
+  },
+  {
+    "sl": "45",
+    "word": "سَنْ",
+    "en-sound": "san",
+    "bn-sound": "সান্"
+  },
+  {
+    "sl": "46",
+    "word": "سَوْ",
+    "en-sound": "saw",
+    "bn-sound": "সাও"
+  },
+  {
+    "sl": "47",
+    "word": "سَىْ",
+    "en-sound": "say",
+    "bn-sound": "সাই"
+  },
+  {
+    "sl": "48",
+    "word": "مِصْ",
+    "en-sound": "mis",
+    "bn-sound": "মিছ্"
+  },
+  {
+    "sl": "49",
+    "word": "مِنْ",
+    "en-sound": "min",
+    "bn-sound": "মিন্"
+  },
+  {
+    "sl": "50",
+    "word": "مِوْ",
+    "en-sound": "miw",
+    "bn-sound": "মিউ"
+  },
+  {
+    "sl": "51",
+    "word": "فِرْ",
+    "en-sound": "firu",
+    "bn-sound": "ফির্"
+  },
+  {
+    "sl": "52",
+    "word": "فِي",
+    "en-sound": "fii",
+    "bn-sound": "ফী"
+  },
+  {
+    "sl": "53",
+    "word": "فِزْ",
+    "en-sound": "fiz",
+    "bn-sound": "ফিঝ্"
+  },
+  {
+    "sl": "54",
+    "word": "قُلْ",
+    "en-sound": "qul",
+    "bn-sound": "ক্বুল্"
+  },
+  {
+    "sl": "55",
+    "word": "قُمْ",
+    "en-sound": "qum",
+    "bn-sound": "ক্বুম্"
+  },
+  {
+    "sl": "56",
+    "word": "قُرْ",
+    "en-sound": "quru",
+    "bn-sound": "ক্বুর্"
+  },
+  {
+    "sl": "57",
+    "word": "قُوْ",
+    "en-sound": "quu",
+    "bn-sound": "ক্বূ"
+  },
+  {
+    "sl": "58",
+    "word": "قُبْ",
+    "en-sound": "qubu",
+    "bn-sound": "ক্বুব্"
+  },
+  {
+    "sl": "59",
+    "word": "قُيْ",
+    "en-sound": "quy",
+    "bn-sound": "ক্বুই"
+  },
+  {
+    "sl": "60",
+    "word": "سُنْ",
+    "en-sound": "sun",
+    "bn-sound": "সুন"
+  },
+  {
+    "sl": "61",
+    "word": "سُحْ",
+    "en-sound": "suhu",
+    "bn-sound": "সুহ্"
+  },
+  {
+    "sl": "62",
+    "word": "سُقْ",
+    "en-sound": "suqu",
+    "bn-sound": "সুক্ব্"
+  },
+  {
+    "sl": "63",
+    "word": "سُفْ",
+    "en-sound": "suf",
+    "bn-sound": "সুফ্"
+  },
+  {
+    "sl": "64",
+    "word": "سُو",
+    "en-sound": "suu",
+    "bn-sound": "সূ"
+  },
+  {
+    "sl": "65",
+    "word": "سُىْ",
+    "en-sound": "suy",
+    "bn-sound": "সুই"
+  },
+  {
+    "sl": "66",
+    "word": "لُبْ",
+    "en-sound": "lub",
+    "bn-sound": "লুব্"
+  },
+  {
+    "sl": "67",
+    "word": "لُفْ",
+    "en-sound": "lufu",
+    "bn-sound": "লুফ্"
+  },
+  {
+    "sl": "68",
+    "word": "لُو",
+    "en-sound": "luu",
+    "bn-sound": "লূ"
+  },
+  {
+    "sl": "69",
+    "word": "لُهْ",
+    "en-sound": "luhu",
+    "bn-sound": "লুহ্"
+  },
+  {
+    "sl": "70",
+    "word": "دُوْ",
+    "en-sound": "duu",
+    "bn-sound": "দূ"
+  },
+  {
+    "sl": "71",
+    "word": "دُرْ",
+    "en-sound": "dur",
+    "bn-sound": "দুর্"
+  },
+  {
+    "sl": "72",
+    "word": "دُسْ",
+    "en-sound": "dusu",
+    "bn-sound": "দুস্"
+  },
+  {
+    "sl": "73",
+    "word": "دُنْ",
+    "en-sound": "dun",
+    "bn-sound": "দুন্"
+  },
+  {
+    "sl": "74",
+    "word": "دُكْ",
+    "en-sound": "duku",
+    "bn-sound": "দুক্"
+  },
+  {
+    "sl": "75",
+    "word": "حُصْ",
+    "en-sound": "husu",
+    "bn-sound": "হুস্ব্"
+  },
+  {
+    "sl": "76",
+    "word": "حُسْ",
+    "en-sound": "husu",
+    "bn-sound": "হুস্"
+  },
+  {
+    "sl": "77",
+    "word": "حُشْ",
+    "en-sound": "hush",
+    "bn-sound": "হুশ্"
+  },
+  {
+    "sl": "78",
+    "word": "حُثْ",
+    "en-sound": "huthu",
+    "bn-sound": "হুছ্"
+  },
+  {
+    "sl": "79",
+    "word": "حُوْ",
+    "en-sound": "huu",
+    "bn-sound": "হূ"
+  },
+  {
+    "sl": "80",
+    "word": "حُىْ",
+    "en-sound": "huy",
+    "bn-sound": "হুই"
+  }
+]
