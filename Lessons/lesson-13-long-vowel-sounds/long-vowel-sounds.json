@@ -1,0 +1,113 @@
+[
+  { "sl": "1", "letter": "اٰ", "en-sound": "aa", "bn-sound": "আা" },
+  { "sl": "2", "letter": "اٖ", "en-sound": "ee", "bn-sound": "ঈ" },
+  { "sl": "3", "letter": "اٗ", "en-sound": "uu", "bn-sound": "ঊ" },
+
+  { "sl": "4", "letter": "بٰ", "en-sound": "baa", "bn-sound": "বাা" },
+  { "sl": "5", "letter": "بٖ", "en-sound": "bee", "bn-sound": "বী" },
+  { "sl": "6", "letter": "بٗ", "en-sound": "buu", "bn-sound": "বূ" },
+
+  { "sl": "7", "letter": "تٰ", "en-sound": "taa", "bn-sound": "তাা" },
+  { "sl": "8", "letter": "تٖ", "en-sound": "tee", "bn-sound": "তী" },
+  { "sl": "9", "letter": "تٗ", "en-sound": "tuu", "bn-sound": "তূ" },
+
+  { "sl": "10", "letter": "ثٰ", "en-sound": "thaa", "bn-sound": "ছাা" },
+  { "sl": "11", "letter": "ثٖ", "en-sound": "thee", "bn-sound": "ছী" },
+  { "sl": "12", "letter": "ثٗ", "en-sound": "thuu", "bn-sound": "ছূ" },
+
+  { "sl": "13", "letter": "جٰ", "en-sound": "jaa", "bn-sound": "জাা" },
+  { "sl": "14", "letter": "جٖ", "en-sound": "jee", "bn-sound": "জী" },
+  { "sl": "15", "letter": "جٗ", "en-sound": "juu", "bn-sound": "জূ" },
+
+  { "sl": "16", "letter": "حٰ", "en-sound": "haa", "bn-sound": "হাা" },
+  { "sl": "17", "letter": "حٖ", "en-sound": "hee", "bn-sound": "হী" },
+  { "sl": "18", "letter": "حٗ", "en-sound": "huu", "bn-sound": "হূ" },
+
+  { "sl": "19", "letter": "خٰ", "en-sound": "khaa", "bn-sound": "খ-" },
+  { "sl": "20", "letter": "خٖ", "en-sound": "khee", "bn-sound": "খী" },
+  { "sl": "21", "letter": "خٗ", "en-sound": "khuu", "bn-sound": "খূ" },
+
+  { "sl": "22", "letter": "دٰ", "en-sound": "daa", "bn-sound": "দাা" },
+  { "sl": "23", "letter": "دٖ", "en-sound": "dee", "bn-sound": "দী" },
+  { "sl": "24", "letter": "دٗ", "en-sound": "duu", "bn-sound": "দূ" },
+
+  { "sl": "25", "letter": "ذٰ", "en-sound": "dhaa", "bn-sound": "যাা" },
+  { "sl": "26", "letter": "ذٖ", "en-sound": "dhee", "bn-sound": "যী" },
+  { "sl": "27", "letter": "ذٗ", "en-sound": "dhuu", "bn-sound": "যূ" },
+
+  { "sl": "28", "letter": "رٰ", "en-sound": "raa", "bn-sound": "র-" },
+  { "sl": "29", "letter": "رٖ", "en-sound": "ree", "bn-sound": "রী" },
+  { "sl": "30", "letter": "رٗ", "en-sound": "ruu", "bn-sound": "রূ" },
+
+  { "sl": "31", "letter": "زٰ", "en-sound": "zaa", "bn-sound": "ঝাা" },
+  { "sl": "32", "letter": "زٖ", "en-sound": "zee", "bn-sound": "ঝী" },
+  { "sl": "33", "letter": "زٗ", "en-sound": "zuu", "bn-sound": "ঝূ" },
+
+  { "sl": "34", "letter": "سٰ", "en-sound": "saa", "bn-sound": "সাা" },
+  { "sl": "35", "letter": "سٖ", "en-sound": "see", "bn-sound": "সী" },
+  { "sl": "36", "letter": "سٗ", "en-sound": "suu", "bn-sound": "সূ" },
+
+  { "sl": "37", "letter": "شٰ", "en-sound": "shaa", "bn-sound": "শাা" },
+  { "sl": "38", "letter": "شٖ", "en-sound": "shee", "bn-sound": "শী" },
+  { "sl": "39", "letter": "شٗ", "en-sound": "shuu", "bn-sound": "শূ" },
+
+  { "sl": "40", "letter": "صٰ", "en-sound": "saa", "bn-sound": "সাা" },
+  { "sl": "41", "letter": "صٖ", "en-sound": "see", "bn-sound": "সী" },
+  { "sl": "42", "letter": "صٗ", "en-sound": "suu", "bn-sound": "সূ" },
+
+  { "sl": "43", "letter": "ضٰ", "en-sound": "daa", "bn-sound": "দ্বাা" },
+  { "sl": "44", "letter": "ضٖ", "en-sound": "dee", "bn-sound": "দ্বী" },
+  { "sl": "45", "letter": "ضٗ", "en-sound": "duu", "bn-sound": "দ্বূ" },
+
+  { "sl": "46", "letter": "طٰ", "en-sound": "taa", "bn-sound": "ত্বাা" },
+  { "sl": "47", "letter": "طٖ", "en-sound": "tee", "bn-sound": "ত্বী" },
+  { "sl": "48", "letter": "طٗ", "en-sound": "tuu", "bn-sound": "ত্বূ" },
+
+  { "sl": "49", "letter": "ظٰ", "en-sound": "zaa", "bn-sound": "জ্বাা" },
+  { "sl": "50", "letter": "ظٖ", "en-sound": "zee", "bn-sound": "জ্বী" },
+  { "sl": "51", "letter": "ظٗ", "en-sound": "zuu", "bn-sound": "জ্বূ" },
+
+  { "sl": "52", "letter": "عٰ", "en-sound": "'aa", "bn-sound": "’আা" },
+  { "sl": "53", "letter": "عٖ", "en-sound": "'ee", "bn-sound": "’ঈ" },
+  { "sl": "54", "letter": "عٗ", "en-sound": "'uu", "bn-sound": "’ঊ" },
+
+  { "sl": "55", "letter": "غٰ", "en-sound": "ghaa", "bn-sound": "গ-" },
+  { "sl": "56", "letter": "غٖ", "en-sound": "ghee", "bn-sound": "গী" },
+  { "sl": "57", "letter": "غٗ", "en-sound": "ghuu", "bn-sound": "গূ" },
+
+  { "sl": "58", "letter": "فٰ", "en-sound": "faa", "bn-sound": "ফাা" },
+  { "sl": "59", "letter": "فٖ", "en-sound": "fee", "bn-sound": "ফী" },
+  { "sl": "60", "letter": "فٗ", "en-sound": "fuu", "bn-sound": "ফু" },
+
+  { "sl": "61", "letter": "قٰ", "en-sound": "qaa", "bn-sound": "ক্ব-" },
+  { "sl": "62", "letter": "قٖ", "en-sound": "qee", "bn-sound": "ক্বী" },
+  { "sl": "63", "letter": "قٗ", "en-sound": "quu", "bn-sound": "ক্বূ" },
+
+  { "sl": "64", "letter": "كٰ", "en-sound": "kaa", "bn-sound": "কাা" },
+  { "sl": "65", "letter": "كٖ", "en-sound": "kee", "bn-sound": "কী" },
+  { "sl": "66", "letter": "كٗ", "en-sound": "kuu", "bn-sound": "কূ" },
+
+  { "sl": "67", "letter": "لٰ", "en-sound": "laa", "bn-sound": "লাা" },
+  { "sl": "68", "letter": "لٖ", "en-sound": "lee", "bn-sound": "লী" },
+  { "sl": "69", "letter": "لٗ", "en-sound": "luu", "bn-sound": "লূ" },
+
+  { "sl": "70", "letter": "مٰ", "en-sound": "maa", "bn-sound": "মাা" },
+  { "sl": "71", "letter": "مٖ", "en-sound": "mee", "bn-sound": "মী" },
+  { "sl": "72", "letter": "مٗ", "en-sound": "muu", "bn-sound": "মূ" },
+
+  { "sl": "73", "letter": "نٰ", "en-sound": "naa", "bn-sound": "নাা" },
+  { "sl": "74", "letter": "نٖ", "en-sound": "nee", "bn-sound": "নী" },
+  { "sl": "75", "letter": "نٗ", "en-sound": "nuu", "bn-sound": "নূ" },
+
+  { "sl": "76", "letter": "هٰ", "en-sound": "haa", "bn-sound": "হাা" },
+  { "sl": "77", "letter": "هٖ", "en-sound": "hee", "bn-sound": "হী" },
+  { "sl": "78", "letter": "هٗ", "en-sound": "huu", "bn-sound": "হূ" },
+
+  { "sl": "79", "letter": "وٰ", "en-sound": "waa", "bn-sound": "ওয়াা" },
+  { "sl": "80", "letter": "وٖ", "en-sound": "wee", "bn-sound": "ওয়ী" },
+  { "sl": "81", "letter": "وٗ", "en-sound": "wuu", "bn-sound": "য়ূ" },
+
+  { "sl": "82", "letter": "يٰ", "en-sound": "yaa", "bn-sound": "ইয়াা" },
+  { "sl": "83", "letter": "يٖ", "en-sound": "yee", "bn-sound": "ইী" },
+  { "sl": "84", "letter": "يٗ", "en-sound": "yuu", "bn-sound": "ইয়ূ" }
+]
