@@ -55,15 +55,15 @@
   { "sl": "41", "letter": "صٖ", "en-sound": "see", "bn-sound": "সী" },
   { "sl": "42", "letter": "صٗ", "en-sound": "suu", "bn-sound": "সূ" },
 
-  { "sl": "43", "letter": "ضٰ", "en-sound": "daa", "bn-sound": "দ্বাা" },
+  { "sl": "43", "letter": "ضٰ", "en-sound": "daa", "bn-sound": "দ্ব-" },
   { "sl": "44", "letter": "ضٖ", "en-sound": "dee", "bn-sound": "দ্বী" },
   { "sl": "45", "letter": "ضٗ", "en-sound": "duu", "bn-sound": "দ্বূ" },
 
-  { "sl": "46", "letter": "طٰ", "en-sound": "taa", "bn-sound": "ত্বাা" },
+  { "sl": "46", "letter": "طٰ", "en-sound": "taa", "bn-sound": "ত্ব-" },
   { "sl": "47", "letter": "طٖ", "en-sound": "tee", "bn-sound": "ত্বী" },
   { "sl": "48", "letter": "طٗ", "en-sound": "tuu", "bn-sound": "ত্বূ" },
 
-  { "sl": "49", "letter": "ظٰ", "en-sound": "zaa", "bn-sound": "জ্বাা" },
+  { "sl": "49", "letter": "ظٰ", "en-sound": "zaa", "bn-sound": "জ্ব-" },
   { "sl": "50", "letter": "ظٖ", "en-sound": "zee", "bn-sound": "জ্বী" },
   { "sl": "51", "letter": "ظٗ", "en-sound": "zuu", "bn-sound": "জ্বূ" },
 
